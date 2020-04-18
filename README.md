@@ -6,6 +6,6 @@ To get started fork and clone this repo onto your local machine.
 
 Open up the `index.js` file. Follow the instructions to provided to complete each of the tasks
 
-For the ARRAYS challenges you will be working with the `players` array in the `data.js` file.
+The solution for the challenges is on the solution branch. 
 
-Do not modify any portioin of the code inside of this file. 
+To access this brach on your local machine run `git checkout solution`
