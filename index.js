@@ -134,7 +134,7 @@ console.log(whereToEat(shabu, 'Mexican')) // `Looks like I'll be cooking tonight
 console.log(whereToEat(curryHouse, 'Indian')) // `Just made reservations at Bombay House`
 console.log(whereToEat(alberto, 'Mexican')) // Just made reservations at Casa de Alberto`
 
-// Task 5 
+// Task 5 -> Removed on update
 
 /* 
 Write a loop for the 'burgerJoint' object that will 
@@ -168,7 +168,7 @@ for(let key in burgerJoint){
 }
 
 
-// Task 6
+// Task 6 -> Removed with update
 
 /* 
 Objects can have key-values pairs where the value is a function. This is called a method. 
