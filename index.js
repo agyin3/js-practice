@@ -99,53 +99,6 @@ function whereToEat(/* code here */){
 // console.log(whereToEat(curryHouse, 'Indian')) // `Just made reservations at Bombay House`
 // console.log(whereToEat(alberto, 'Mexican')) // Just made reservations at Casa de Alberto`
 
-// Task 6 
-
-/* 
-Write a loop for the 'burgerJoint' object what will 
-console.log() the value of each key
-*/
-
-let burgerJoint = {
-    name: 'In-N-Out',
-    cuisine_type: 'American',
-    rating: 5,
-    city: 'Corona'
-}
-
-// Task 5 
-
-/* 
-Objects can have key-values pairs where the value is a function. This is called a method. 
-
-Create a function 'createRestaurant' that takes in four arguments
-1. name
-2. cuisine type
-3. city
-4. rating
-
-This function should return an object that includes the following
-1. name of the restaurant
-2. cuisine type
-3. city restaurant is located
-4. a 'increaseRating' method that increases the restaurants rating if it is below 5
-5. a 'decreaseRating' method that decreases the restaurants rating if it is above 0 
-*/
-
-function createRestaurant(/* code here */){
-
-    /* code here */
-
-}
-
-// let tester = createRestaurant('Pizza World', 'Italian', 'Austin', 2)
-
-// tester.increaseRating()  
-// tester.increaseRating()  
-// console.log(tester.rating) // 4
-// tester.decreaseRating() 
-// console.log(tester.rating) // 3
-
 
 
 /* ARRAYS PRACTICE */
